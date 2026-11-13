@@ -171,4 +171,4 @@ Dán phần tóm tắt in ra từ `src/check_submission.py`:
 
 - MOT17 (MOTChallenge, Milan et al., 2016), CC BY-NC-SA 3.0.
 - Tài liệu lớp: `RULES.md`, `docs/GUIDELINE.md`, `docs/MOT_FORMAT.md`, `docs/CVAT_CHEATSHEET.md`.
-- Công cụ AI: Claude Code 
+- Công cụ AI: Claude Code. Dùng để: đối chiếu bảng nhận diện P1–P5 với `src/lab_variants.json`; lập bản nháp bảng xem trước (mục 1) từ ảnh frame; đọc `annotations.xml` và `gt.txt` để đếm keyframe, frame có mặt, phát hiện hai track trùng ở P5. AI không sinh box hoặc track ID.

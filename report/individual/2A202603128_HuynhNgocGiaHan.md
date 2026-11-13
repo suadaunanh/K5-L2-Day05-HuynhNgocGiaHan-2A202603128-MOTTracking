@@ -8,7 +8,7 @@
 
 - Họ tên: Huỳnh Ngọc Gia Hân
 - MSSV: 2A202603128
-- Mã đề (A/B/C): C (P1–P5 = GT ID 1, 7, 20, 22, 23 của MOT17-09)
+- Mã đề (A/B/C): C-P1–P5
 - Email: 26ai.hanhng@vinuni.edu.vn
 - Link repository: https://github.com/suadaunanh/K5-L2-Day05-HuynhNgocGiaHan-2A202603128-MOTTracking
 - Giờ bắt đầu: 16:30
@@ -171,4 +171,4 @@ Dán phần tóm tắt in ra từ `src/check_submission.py`:
 
 - MOT17 (MOTChallenge, Milan et al., 2016), CC BY-NC-SA 3.0.
 - Tài liệu lớp: `RULES.md`, `docs/GUIDELINE.md`, `docs/MOT_FORMAT.md`, `docs/CVAT_CHEATSHEET.md`.
-- Công cụ AI: Claude Code (Anthropic). Dùng để đối chiếu bảng nhận diện P1–P5 của đề C với `src/lab_variants.json`, điền phần thông tin hành chính, và lập bản nháp bảng xem trước (mục 1) từ ảnh frame; học viên đã kiểm lại các mốc trên CVAT. Claude (Cowork) còn đọc `annotations.xml` và `gt.txt` để đếm frame/track, phát hiện hai track trùng ở P5 và soạn bản nháp mục 3–6; học viên kiểm lại trên CVAT. AI không sinh box hoặc track ID.
+- Công cụ AI: Claude Code 
